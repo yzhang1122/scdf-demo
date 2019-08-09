@@ -4,3 +4,8 @@ spring:
     username: root
     password: purpose
     driver-class-name: com.mysql.jdbc.Driver
+  cloud:
+    dataflow:
+      features:
+        streams-enabled: false
+        schedules-enabled: true
