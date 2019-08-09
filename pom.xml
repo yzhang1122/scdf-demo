@@ -14,7 +14,6 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <spring.boot.version>2.1.6.RELEASE</spring.boot.version>
-        <spring-cloud.version>Greenwich.SR2</spring-cloud.version>
         <spring-cloud-dataflow.version>2.2.0.RELEASE</spring-cloud-dataflow.version>
     </properties>
 
